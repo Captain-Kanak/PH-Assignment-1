@@ -378,5 +378,21 @@
 
 /* Footer Styles */
 footer {
-  height: 500px;
+  margin-top: 80px;
+  text-align: center;
+  background-color: #ffffff;
+  padding: 50px 240px;
+}
+footer h2 {
+  font-size: 32px;
+  font-weight: 700;
+  color: #0e0e0e;
+  margin-bottom: 32px;
+}
+footer div {
+  margin-top: 32px;
+}
+footer div img {
+  margin-right: 24px;
+  cursor: pointer;
 }
