@@ -98,6 +98,79 @@
   opacity: 70%;
 }
 
+/* future-vision Styles */
+.future-vision {
+  margin-top: 80px;
+}
+.future-vision p {
+  font-size: 16px;
+  color: #0e0e0e;
+  opacity: 70%;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+.future-vision-card-container {
+  display: flex;
+  gap: 24px;
+}
+.future-vision-card {
+  background-color: #fff;
+  border-radius: 16px;
+  padding: 32px;
+  flex: 1;
+  height: 350px;
+  position: relative;
+}
+.future-vision-card h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #0e0e0e;
+  opacity: 80%;
+  margin-top: 24px;
+  margin-bottom: 12px;
+}
+.future-vision-card p {
+  font-size: 16px;
+  line-height: 24px;
+  color: #0e0e0e;
+  opacity: 70%;
+}
+.future-vision-card button {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+}
+.future-vision-card-container .card-1 {
+  background-color: #9bb8e8;
+}
+.future-vision-card-container .card-2 {
+  background-color: #c6e4d6;
+}
+.future-vision-card-container .card-3 {
+  background-color: #f7ebcf;
+}
+.future-vision-card-btn-1 {
+  background-color: #5490f5;
+  position: absolute;
+  bottom: 32px;
+  left: 32px;
+}
+.future-vision-card-btn-2 {
+  background-color: #09a15c;
+  position: absolute;
+  bottom: 32px;
+  left: 32px;
+}
+.future-vision-card-btn-3 {
+  background-color: #ffc239;
+  position: absolute;
+  bottom: 32px;
+  left: 32px;
+}
+
 /* Footer Styles */
 footer {
   height: 500px;
