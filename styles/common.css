@@ -7,3 +7,10 @@
   font-weight: 700;
   color: #0e0e0e;
 }
+.section-description {
+  font-size: 16px;
+  color: #0e0e0e;
+  opacity: 70%;
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
