@@ -40,7 +40,7 @@
 }
 #header nav button:hover {
   background-color: #ff8a8a;
-  color: #ffffff;
+  color: #000000;
 }
 
 /* Banner Styles */
@@ -155,7 +155,7 @@
   transition: all 0.3s ease;
 }
 .future-vision-card button:hover {
-  color: #ff0000;
+  color: #000000;
 }
 .future-vision-card-container .card-1 {
   background-color: #9bb8e8;
@@ -266,7 +266,7 @@
   transition: all 0.3s ease;
 }
 .news-content button:hover {
-  color: #ff0000;
+  color: #000000;
 }
 
 /* donate-section Styles */
@@ -321,7 +321,8 @@
   transition: all 0.3s ease;
 }
 .donate-section .donate-btn button:hover {
-  color: #ff0000;
+  box-shadow: 5px 5px 20px rgb(188, 68, 68);
+  color: #000000;
 }
 
 /* newsletter Styles */
@@ -373,7 +374,7 @@
   transition: all 0.3s ease;
 }
 .newsletter button:hover {
-  color: #ff0000;
+  color: #e7127d;
 }
 
 /* Footer Styles */
@@ -396,3 +397,5 @@ footer div img {
   margin-right: 24px;
   cursor: pointer;
 }
+
+/* CSS Styles for Bangladesh 2.0 are Completed | Happy Programming */
