@@ -314,6 +314,9 @@ table td select {
   margin-top: 80px;
   text-align: center;
 }
+.donate-section p {
+  padding: 0 80px;
+}
 .donate-card-container {
   display: flex;
   align-items: center;
